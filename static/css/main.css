@@ -72,7 +72,7 @@ a {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
-  font-family: Meddon, cursive;
+  font-family: "Open Sans", sans-serif;
   font-size: 20px !important;
 }
 #header .logo:hover {
@@ -507,24 +507,24 @@ button:nth-child(2) {
 #one {
   height: 10px;
   background: #db7093;
-  width: 70%;
+  width: 80%;
   border-radius: 30px;
 }
 #two {
   height: 10px;
-  width: 50%;
+  width: 80%;
   background: #2a6eec;
   border-radius: 30px;
 }
 #three {
   height: 10px;
-  width: 65%;
+  width: 70%;
   background: #15ff00;
   border-radius: 30px;
 }
 #four {
   height: 10px;
-  width: 60%;
+  width: 75%;
   background: #ee3b3b;
   border-radius: 30px;
 }
